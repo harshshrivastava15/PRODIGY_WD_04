@@ -14,7 +14,7 @@ body{
 }
 .card{
     width: 90%;
-    max-width: 470px;
+    max-width: 400px;
     background: linear-gradient(135deg, rgb(141, 185, 255), rgb(213, 53, 253));
     color:aliceblue;
     border-radius: 20px;
@@ -96,4 +96,31 @@ body{
     font-optical-sizing: auto;
     font-weight: 700;
     font-style: normal;
+}
+.whether .wi-day-sunny{
+    display: none;
+}
+.whether .wi-day-cloudy{
+    display: none;
+}
+.whether .wi-cloud{
+    display: none;
+}
+.whether .wi-cloudy{
+    display: none;
+}
+.whether .wi-day-showers{
+    display: none;
+}
+.whether .wi-rain{
+    display: none;
+}
+.whether .wi-thunderstorm{
+    display: none;
+}
+.whether .wi-snow{
+    display: none;
+}
+.whether .wi-day-fog{
+    display: none;
 }
